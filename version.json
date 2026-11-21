@@ -1,0 +1,11 @@
+{
+  "android": {
+    "build": 515,
+    "version": "5.1.5",
+    "url": "https://github.com/nikolai7032/netradio/releases/latest"
+  },
+  "notes": {
+    "ru": "Windows: обновление можно скачать и установить прямо из приложения. На Android — сообщение о новой версии, режим «Список» в двух ориентациях.",
+    "en": "Windows: the update can be downloaded and installed from the app. Android: new-version notice, “List” mode in two orientations."
+  }
+}
